@@ -9,6 +9,6 @@ npm i
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000/house) with your browser to see the result.
+Open [http://localhost:3000/house](http://localhost:3000/house) with your browser to see the result.
 
 I have used MaterialUi for the components and some components may not match the design template exactly.
